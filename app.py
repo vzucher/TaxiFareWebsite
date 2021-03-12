@@ -2,7 +2,6 @@ import time
 import streamlit as st
 import requests
 import datetime
-import geocoder
 
 '''
 # I ❤️️NY Taxi Fare Calculator 🔢🚖
